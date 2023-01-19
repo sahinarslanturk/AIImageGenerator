@@ -7,5 +7,5 @@ A new Flutter project.
 - We are going to learn how to develop ai image generator app easily.
 - This flutter till the end so you can understand the whole process of how to develop flutter ai image generator app using openai in flutter 3.0.
 
-Developed by Sahin ARSLANTURK
+
 
